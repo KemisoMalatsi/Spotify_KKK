@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+}
+
+h1{
+  color:green;
+  position: relative;
+  top:0;
+  left:0;
+}
+
+nav{
+  display: flex;
+  flex-direction: column;
+  border: 1px white solid;
+  width: 45%;
+  height:50vh;
+}
+
+main{
+  border: 1px white solid;
+  position:relative;
+  bottom:0;
+  height:40vh;
+  padding:5px;
+}
+
+.music_list{
+  position:relative;
+  top:30%;
+  border:1px white solid;
+  width:30%;
+  height:60%;
+
+}
+
