@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+}
+
+h1{
+  color:green;
+  position: relative;
+  top:0;
+  left:0;
+}
+
+nav{
+  display: flex;
+  flex-direction: column;
+  border: 1px white solid;
+  width: 45%;
+  height:100vh;
+}
+
